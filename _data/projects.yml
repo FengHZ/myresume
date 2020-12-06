@@ -11,16 +11,16 @@
   role: First Co-Author & Primary Developer
   duration: 2018.10 &mdash; 2019.7
   # url: "#"
-  description: ChartSeer: An Interactive Pattern Identification and Annotation Framework for Charts (Under Review of IEEE TKDE). 
+  description: "ChartSeer: An Interactive Pattern Identification and Annotation Framework for Charts (Under Review of IEEE TKDE)." 
   
 - project: Semi-supervised Representation Learning
   role: Founder & Primary Developer
   duration: 2020.1 &mdash; 2020.12
   url: "https://arxiv.org/abs/2011.10684"
-  description: SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations  (Accepted at AAAI 2021).
+  description: "SHOT-VAE: Semi-supervised Deep Generative Models With Label-aware ELBO Approximations  (Accepted at AAAI 2021)."
   
 - project: Unsupervised Multi-source Decentralized Transfer Learning
   role: Founder & Primary Developer
   duration: 2020.8 &mdash; Present
   url: "https://arxiv.org/abs/2011.09757"
-  description: KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation (Arxiv Pre-print).
+  description: "KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation (Arxiv Pre-print)."
